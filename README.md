@@ -1,2 +1,2 @@
-# Blog
-This is a Blog
+# Study Online
+This is a StudyOnline
